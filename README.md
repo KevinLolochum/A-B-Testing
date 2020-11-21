@@ -1,4 +1,4 @@
-# A/B A LANDING PAGE
+# A/B TESTING A LANDING PAGE
 
 A/B tesing is an old statistics concept that is very useful in Data Science/Marketing Data science.
 It is a way to compare two versions of a single variable and determine whether a subject (or similar subjects) respond differently to one of the versions.
