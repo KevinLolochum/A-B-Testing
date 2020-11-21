@@ -11,10 +11,10 @@ The main concepts in A/B testing are.
 1. Control group - The group that is shown the original version of the variable(website).
 2. Treatment group - The group that is shown the twerked version(new) of the variable(website).
                    - This group should have the same characteristics as the control group.
-3. Testing inclusion criteria - This is a test to ensure that there is no similarity bias 
-                                when assigning to the treatment and control group i.e assignment is random.
+3. Testing inclusion criteria - This is a test to ensure that there is no bias when assigning a subject(participant) to the
+                                treatment and control group i.e assignment is random.
                               - It is done using the chi-squared test.
-                              - The null hypothesis is assignment to verison is independent of treatment status.
+                              - The null hypothesis is "assignment to verison is independent of treatment status".
                               
 4. Two sample t-test - A test used to test the statistical significance of the twerk (change) assuming step three is good.
 
