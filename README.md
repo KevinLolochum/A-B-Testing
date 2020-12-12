@@ -17,6 +17,7 @@ The main concepts in A/B testing are.
                               - The null hypothesis is "assignment to verison is independent of treatment status".
                               
 4. Two sample t-test - A test used to test the statistical significance of the twerk (change) assuming step three is good.
+5. P_Value - The probability of observing results as extreme as seen given that the null is correct (i.e if the the null was correct, what is the probability we will see this results). Low P_value reject the null. High P_value, fail to reject the null.
 
 # RESOURCES
 1. Good [article](https://www.datasciencecentral.com/profiles/blogs/a-b-testing-in-one-picture) for real life business use cases.
