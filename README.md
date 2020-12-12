@@ -1,6 +1,6 @@
 # A/B TESTING A LANDING PAGE
 
-A/B tesing is an old statistics concept that is very useful in Data Science/Marketing Data science.
+A/B tesing is a statistics concept that is very useful in Data Science/Marketing Data science.
 It is a way to compare two versions of a single variable and determine whether a subject (or similar subjects) respond differently to one of the versions.
 
 An example is comparing a website's landing page with a twerked version, as demontrated in this [example](https://github.com/KevinLolochum/A-B-Testing/blob/main/A_B_testing_a_landing_page.ipynb) using this cleaned [data](https://github.com/KevinLolochum/A-B-Testing/blob/main/abtest.csv).
